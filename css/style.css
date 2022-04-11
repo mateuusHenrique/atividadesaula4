@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(88, 199, 97);
+    padding: 20px;
+    font-family: 'Times New Roman';
+}
+div{
+    text-align: center;
+    background-color: silver;
+    border-bottom:2px solid rgb(88, 199, 97);
+}
