@@ -1,0 +1,26 @@
+img{
+width: 500px;
+height: auto;
+}
+body{
+    background-color: rgb(88, 199, 97); 
+    font-family: 'Times New Roman';
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+#MC{
+    color:blue;
+}
+#tite{
+    text-decoration: red underline;
+}
+div{
+    text-align: center;
+    background-color: silver;
+}
+.noticias{
+border-bottom:2px solid rgb(88, 199, 97);
+
+}
